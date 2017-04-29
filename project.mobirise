@@ -322,6 +322,9 @@
             },
             ".mbr-price-figure": {
               "font-size": "25px"
+            },
+            ".mbr-price-value": {
+              "font-size": "25px"
             }
           },
           "_tags": [

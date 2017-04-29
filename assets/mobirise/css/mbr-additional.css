@@ -806,6 +806,9 @@ h6,
 #pricing-table2-p .mbr-price-figure {
   font-size: 25px;
 }
+#pricing-table2-p .mbr-price-value {
+  font-size: 25px;
+}
 #msg-box8-4 .mbr-section-title,
 #msg-box8-4 p {
   color: #fff;
